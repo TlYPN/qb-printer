@@ -5,3 +5,5 @@ OG Qb-printer with job check to use printers
 literally, drag drop. call it a day
 
 You can pass more job arguments in the client, "caninteract" portion of the qb-target export
+
+AND The OG of this script can be found here: https://github.com/qbcore-framework/qb-printer
