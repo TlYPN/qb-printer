@@ -66,7 +66,7 @@ end)
 
 if Config.UseTarget then
     CreateThread(function()
-        exports['qb-target']:AddTargetModel("prop_printer_01", {
+        exports['qb-target']:AddTargetModel(Config.printers, {
             options = {
                 {
                     event = 'qb-printer:printer',
